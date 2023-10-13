@@ -29,8 +29,15 @@ cinst poshgit
 cinst notepadplusplus
 cinst vscode
 cinst vim
-cinst nerd-fonts-hack
 cinst Powertoys  
+
+# fonts
+cinst nerd-fonts-hack
+cinst cascadiacode
+cinst cascadiamono
+cinst cascadiacodepl
+cinst cascadiamonopl
+cinst firacode
 
 # vscode extensions
 cinst vscode-terraform

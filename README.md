@@ -48,7 +48,15 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
    - nerd-fonts-hack
    - Powertoys
 
-8. **VSCode Extensions**
+8. **Fonts**
+   - nerd-fonts-hack
+   - cascadiacode
+   - cascadiamono
+   - cascadiacodepl
+   - cascadiamonopl
+   - firacode
+
+9. **VSCode Extensions**
    - vscode-terraform
    - vscode-azurerm-tools
    - vscode-prettier
@@ -59,19 +67,19 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
    - vscode-markdownlint
    - vscode-powershell
 
-9. **Network Tools**
-   - postman
-   - fiddler
+10. **Network Tools**
+    - postman
+    - fiddler
 
-10. **Dotnet**
+11. **Dotnet**
     - dotnet-6.0-sdk
     - dotnet-sdk
     - dotpeek
 
-11. **Node.js**
+12. **Node.js**
     - nodejs
 
-12. **Azure**
+13. **Azure**
     - azure-cli
     - bicep
     - azd
@@ -79,26 +87,26 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
     - azure-functions-core-tools
     - azure-cosmosdb-emulator
 
-13. **Terraform**
+14. **Terraform**
     - terraform
     - terraform-docs
     - tflint
 
-14. **Security Tools**
+15. **Security Tools**
     - tfsec
     - trivy
 
-15. **SQL**
+16. **SQL**
     - azure-data-studio
     - sql-server-management-studio
 
-16. **Shells and Terminals**
+17. **Shells and Terminals**
     - powershell-core
     - pester
     - microsoft-windows-terminal
     - terminal-icons.powershell
 
-17. **Container Tools**
+18. **Container Tools**
     - docker-cli
     - docker-desktop
 
