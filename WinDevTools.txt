@@ -1,0 +1,87 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+
+# general
+cinst adobereader
+cinst 7zip.install
+
+# media
+cinst vlc
+cinst spotify
+
+# image editing
+cinst paint.net
+
+# web browsers
+cinst googlechrome
+cinst firefox
+
+# chat
+cinst microsoft-teams
+
+# git
+cinst git
+cinst sourcetree
+cinst gh
+cinst oh-my-posh
+cinst poshgit
+
+# text editors
+cinst notepadplusplus
+cinst vscode
+cinst vim
+cinst nerd-fonts-hack
+cinst Powertoys  
+
+# vscode extensions
+cinst vscode-terraform
+cinst vscode-azurerm-tools
+cinst vscode-prettier
+cinst vscode-icons
+cinst vscode-gitlens
+cinst vscode-docker
+cinst azurefunctions-vscode
+cinst vscode-markdownlint
+cinst vscode-powershell
+
+# network tools
+cinst postman
+cinst fiddler
+
+# dotnet
+cinst dotnet-6.0-sdk
+cinst dotnet-sdk
+cinst dotpeek
+
+# nodejs
+cinst nodejs
+
+# azure
+cinst azure-cli
+cinst bicep
+cinst azd
+cinst microsoftazurestorageexplorer
+cinst azure-functions-core-tools
+cinst azure-cosmosdb-emulator
+
+# terraform
+cinst terraform
+cinst terraform-docs
+cinst tflint
+
+# security tools
+cinst tfsec
+cinst trivy
+
+# sql
+cinst azure-data-studio
+cinst sql-server-management-studio
+
+# shells and terminals
+cinst powershell-core
+cinst pester
+cinst microsoft-windows-terminal
+cinst terminal-icons.powershell
+
+# container tools
+cinst docker-cli
+cinst docker-desktop
