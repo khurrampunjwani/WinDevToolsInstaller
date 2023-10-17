@@ -110,6 +110,9 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
     - docker-cli
     - docker-desktop
 
+19. **Diagramming**
+    - drawio
+
 ## Credits
 
 I got the idea from my friend and colleague, Daniel Hack (<https://www.linkedin.com/in/danielhack/>), and his original script can be found here (<https://gitlab.com/-/snippets/1946822>).

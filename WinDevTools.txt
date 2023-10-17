@@ -92,3 +92,6 @@ cinst terminal-icons.powershell
 # container tools
 cinst docker-cli
 cinst docker-desktop
+
+# Diagramming
+cinst drawio
